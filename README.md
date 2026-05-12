@@ -3,8 +3,11 @@
 ### Python Developer | Future AI/ML Engineer | Bioinformatics Enthusiast
 
 location: Osun, Nigeria
+
  Gmail: [adebowaleabdulrahman012@gmail.com](mailto:adebowaleabdulrahman012@gmail.com)
+ 
  GitHub: github.com/Rahman-td
+ 
  LinkedIn: linkedin.com/in/Rahmantd
 
 
